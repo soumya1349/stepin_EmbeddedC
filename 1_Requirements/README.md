@@ -21,3 +21,12 @@ Whenever person wants to use seat heater
 This is usefull in the areas with less temperature
 ### How
 Implemented using AVR microcontroller,sensors,interrpts,LEDs.
+
+## Requirements
+|DESCRIPTION|CATEGORY|STATUS|
+|:--------------------------------|:----------------|:----------|
+|Checking for passenger sitting|Technical|Implemented|
+|Enabel the heater|Technical|Implemented|
+|Setting the temperature|Technical|Implemented|
+|Display the temperature|Technical|Implemented|
+
