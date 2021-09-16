@@ -6,7 +6,7 @@
 #include "user_utils.h"
 #include "blinky.h"
 #include "Temp_sensor.h"
-#include "UART.h"
+#include "uart.h"
 unsigned volatile FLAG1 =0 ,FLAG2 =0;
 /**
  * @brief Initialize all the Peripherals and pin configurations
