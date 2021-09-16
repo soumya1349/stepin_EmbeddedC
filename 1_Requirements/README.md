@@ -29,4 +29,5 @@ Implemented using AVR microcontroller,sensors,interrpts,LEDs.
 |Enabel the heater|Technical|Implemented|
 |Setting the temperature|Technical|Implemented|
 |Display the temperature|Technical|Implemented|
-
+## SWOT Analysis
+![Screen](https://github.com/soumya1349/stepin_EmbeddedC/blob/b6ea0e6a630f35626fcf77339a5f57fabfb3f545/1_Requirements/Swot%20analysis.PNG)
